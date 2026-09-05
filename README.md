@@ -1,6 +1,6 @@
 # Banking System - CodeAlpha Task
 
-A C++ console application to manage bank accounts and transactions using OOP.
+A C++ console application to manage bank accounts and transactions using OOP
 
 ### Features
 * Create customers and open bank accounts
